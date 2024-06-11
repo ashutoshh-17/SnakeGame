@@ -98,11 +98,12 @@ SnakeGame/
 
 ### Main Interface
 
-![Main Interface](screenshots/main-interface.png)
+<img src="screenshots/main-interface.png" alt="Game Start" width="400">
 
 ### Game Over
 
 ![Game-Over](screenshots/game-over.png)
+<img src="screenshots/game-over.png" alt="Game Over" width="400">
 
 ## Contributing
 
