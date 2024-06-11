@@ -102,7 +102,6 @@ SnakeGame/
 
 ### Game Over
 
-![Game-Over](screenshots/game-over.png)
 <img src="screenshots/game-over.png" alt="Game Over" width="400">
 
 ## Contributing
