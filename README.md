@@ -96,7 +96,6 @@ SnakeGame/
 
 ## Screenshots
 
-<p align="center">
 ### Main Interface
 
 <img src="screenshots/main-interface.png" alt="Game Start" width="400">
@@ -104,7 +103,6 @@ SnakeGame/
 ### Game Over
 
 <img src="screenshots/game-over.png" alt="Game Over" width="400">
-</p>
 
 ## Contributing
 
