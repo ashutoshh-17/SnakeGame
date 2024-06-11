@@ -43,7 +43,7 @@ To set up the project on your local machine, follow these steps:
 2. **Navigate to the project directory:**
 
     ```bash
-    cd snake-game-tutorial
+    cd SnakeGame
     ```
 
 3. **Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse):**
